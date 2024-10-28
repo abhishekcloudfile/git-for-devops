@@ -1,4 +1,4 @@
-# git for devoos
+# git for devops
 
 
 understand for devops
