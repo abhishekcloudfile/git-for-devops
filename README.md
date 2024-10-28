@@ -1,3 +1,5 @@
 # git for devoos
 
-understand for devops`
+
+understand for devops
+connect to remote
